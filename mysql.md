@@ -3,7 +3,7 @@
 > 数值类型
 
 +  整数类型
-	+ TINYINT SMALLINT MEDIUMINT INT BIGINT
+	+ TINYINT(很小的整数) SMALLINT(小的整数) MEDIUMINT(中等大小的整数) INT(普通大小的整数) BIGINT(大整数)
 +  浮点小数数据类型
 	+ FLOAT DOUBLE 定点小数类型DECIMAL
 + 日期类型
