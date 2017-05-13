@@ -1,0 +1,13 @@
+数据库类型
+
+> 数值类型
+
++  整数类型
+	+ TINYINT SMALLINT MEDIUMINT INT BIGINT
++  浮点小数数据类型
+	+ FLOAT DOUBLE 定点小数类型DECIMAL
++ 日期类型
+	+ YEAR TIME DATE DATETIME TIMESTAMP
++ 字符串类型
+	+ CHAR VARCHAR BINARY VARBINARY BLOB TEXTENUM SET
+	+ 字符串类型分为文本字符串和二进制字符串
